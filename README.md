@@ -11,4 +11,8 @@ Writing this mostly for fun to learn more about Go and (sort of) implementing pr
 * implement Eval
  
 # Build and run
+go run main.go
 
+
+### References
+Thorsten Ball - Writing an interpreter in Go (2017)
